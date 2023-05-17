@@ -6,6 +6,6 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 
 ------------
 # Desarrollo e Ingeniería
--##[Desarrollo web](https://platzi.com/escuela/web/ "Desarrollo web")
+- ##[Desarrollo web](https://platzi.com/escuela/web/ "Desarrollo web")
 	- [Full Stack Developer con JavaScript](https://platzi.com/ruta/javascript-full-stack/?school=_escuela_web_ "Full Stack Developer con JavaScript")
-		- 
+		- Dou
