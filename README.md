@@ -14,3 +14,4 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso Profesional de Git y GitHub](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoProfesionalGitGithub.md " Curso Profesional de Git y GitHub")
 		- [ Curso de Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoFrontedDeveloper.md " Curso de Frontend Developer")
 		- [ Curso Práctico de Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoPracticoFrontendDeveloper.md " Curso Práctico de Frontend Developer")
+		- [ Curso Básico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoBasicoJavascript.md " Curso Básico de JavaScript")
