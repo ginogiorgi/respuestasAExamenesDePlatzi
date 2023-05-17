@@ -13,3 +13,4 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso de Introducción a la Terminal y Línea de Comandos](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoIntroduccionTerminalYLineaDeComandos.md " Curso de Introducción a la Terminal y Línea de Comandos")
 		- [ Curso Profesional de Git y GitHub](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoProfesionalGitGithub.md " Curso Profesional de Git y GitHub")
 		- [ Curso de Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoFrontedDeveloper.md " Curso de Frontend Developer")
+		- [ Curso Práctico de Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoPracticoFrontendDeveloper.md " Curso Práctico de Frontend Developer")
