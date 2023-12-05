@@ -19,3 +19,4 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso de ECMAScript: Historia y Versiones de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoECMAscript.md " Curso de ECMAScript: Historia y Versiones de JavaScript")
 		- [ Curso de Asincronismo con JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoAsincronismoJavascript.md " Curso de Asincronismo con JavaScript")
 		- [ Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoDeNPM.md " Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript")
+		- [ Curso de React.js](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/cursoDeReactJs " Curso de React.js")
