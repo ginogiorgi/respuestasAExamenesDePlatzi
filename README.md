@@ -18,6 +18,7 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso de Asincronismo con JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoAsincronismoJavascript.md " Curso de Asincronismo con JavaScript")
 		- [ Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoDeNPM.md " Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript")
 		- [ Curso de React.js](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoDeReactJs.md " Curso de React.js")
+		- [ Curso de React.js con Vite.js y TailwindCSS](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoDeReact.jsConVite.jsYTailwindCSS.md " Curso de React.js con Vite.js y TailwindCSS")
 	- ### [Cursos Viejos](https://platzi.com/escuela/web/ "Cursos Viejos")
 		- [ Curso Básico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoBasicoJavascript.md " Curso Básico de JavaScript")
 		- [ Curso Práctico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoPracticoJavascript.md " Curso Práctico de JavaScript")
