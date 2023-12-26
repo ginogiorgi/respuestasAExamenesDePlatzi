@@ -20,6 +20,7 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso de React.js](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoDeReactJs.md " Curso de React.js")
 		- [ Curso de React.js con Vite.js y TailwindCSS](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoDeReact.jsConVite.jsYTailwindCSS.md " Curso de React.js con Vite.js y TailwindCSS")
 		- [ Prueba Técnica: E-commerce Profesional con React.js](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/pruebaTecnicaReactJs.md " Prueba Técnica: E-commerce Profesional con React.js")
+		- [ Curso para Conseguir Trabajo como Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoParaConseguirTrabajoFrontendDeveloper.md " Curso para Conseguir Trabajo como Frontend Developer")
 	- ### [Cursos Viejos](https://platzi.com/escuela/web/ "Cursos Viejos")
 		- [ Curso Básico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoBasicoJavascript.md " Curso Básico de JavaScript")
 		- [ Curso Práctico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoPracticoJavascript.md " Curso Práctico de JavaScript")
