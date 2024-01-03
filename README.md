@@ -23,7 +23,7 @@ Answers to the exams that I resolve in the **Platzi** courses. The objective of 
 		- [ Curso para Conseguir Trabajo como Frontend Developer](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoParaConseguirTrabajoFrontendDeveloper.md " Curso para Conseguir Trabajo como Frontend Developer")
 		- [ Curso de Introducción al Desarrollo Backend](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoIntrocuccionDesarolloBackend.md " Curso de Introducción al Desarrollo Backend")
 		- [ Curso de Fundamentos de Bases de Datos](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoFundamentosBasesDatos.md " Curso de Fundamentos de Bases de Datos")
-	- ### [Cursos Viejos](https://platzi.com/escuela/web/ "Cursos Viejos")
-		- [ Curso Básico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoBasicoJavascript.md " Curso Básico de JavaScript")
-		- [ Curso Práctico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoPracticoJavascript.md " Curso Práctico de JavaScript")
-		- [ Curso de ECMAScript: Historia y Versiones de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoECMAscript.md " Curso de ECMAScript: Historia y Versiones de JavaScript")
+# Cursos viejos
+- [ Curso Básico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoBasicoJavascript.md " Curso Básico de JavaScript")
+- [ Curso Práctico de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoPracticoJavascript.md " Curso Práctico de JavaScript")
+- [ Curso de ECMAScript: Historia y Versiones de JavaScript](https://github.com/ginogiorgi/respuestasAExamenesDePlatzi/blob/main/Cursos/cursoECMAscript.md " Curso de ECMAScript: Historia y Versiones de JavaScript")
